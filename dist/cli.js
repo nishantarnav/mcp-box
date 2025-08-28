@@ -253,10 +253,10 @@ ${chalk.yellow('Examples:')}
   ${chalk.gray('$')} mcp-box import --from claude --to cursor ${chalk.gray('# Import config')}
 
 ${chalk.yellow('Documentation:')}
-  ${chalk.blue('https://github.com/mcp-box/mcp-box#readme')}
+  ${chalk.blue('https://github.com/nishantarnav/mcp-box#readme')}
 
 ${chalk.yellow('Report issues:')}
-  ${chalk.blue('https://github.com/mcp-box/mcp-box/issues')}
+  ${chalk.blue('https://github.com/nishantarnav/mcp-box/issues')}
 `);
 // Handle unknown commands
 program.on('command:*', (operands) => {

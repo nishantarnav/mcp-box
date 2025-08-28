@@ -74,12 +74,12 @@
   "author": "MCP Box Team",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mcp-box/mcp-box.git"
+    "url": "https://github.com/nishantarnav/mcp-box.git"
   },
   "bugs": {
-    "url": "https://github.com/mcp-box/mcp-box/issues"
+    "url": "https://github.com/nishantarnav/mcp-box/issues"
   },
-  "homepage": "https://github.com/mcp-box/mcp-box#readme",
+  "homepage": "https://github.com/nishantarnav/mcp-box#readme",
   "files": [
     "bin/",
     "dist/",
